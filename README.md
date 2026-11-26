@@ -78,6 +78,7 @@ The [PyTorch Projects](https://github.com/AliHassanAbbas/Pytorch-Projects-) repo
 - [Deep Learning Models in PyTorch](https://github.com/AliHassanAbbas/Deep-Learning-Models-In-Pytorch)
 - [U-Net image segmentation](https://github.com/AliHassanAbbas/U-Net-From-Scratch-Using-PyTorch-Image-Segmentation-with-PyTorch-From-Scratch.)
 - [PaliGemma training and inference with Flickr8k](https://github.com/AliHassanAbbas/PaliGemma-training-inference-pytorch)
+- [Stable Diffusion training and inference with PyTorch](https://github.com/AliHassanAbbas/stable-diffusion-training-inference-pytorch-)
 - [All public repositories](https://github.com/AliHassanAbbas?tab=repositories)
 
 > Project scope varies. Please consult each repository and notebook for its implementation details, datasets, training status, and limitations.
@@ -87,7 +88,7 @@ The [PyTorch Projects](https://github.com/AliHassanAbbas/Pytorch-Projects-) repo
 - **Deep learning & PyTorch:** PyTorch, neural networks, CNNs, RNNs, LSTMs, autograd, training loops, optimization, GPU workflows
 - **Transformers & sequence models:** Attention, scaled dot-product and multi-head attention, Transformer encoders/decoders, sequence-to-sequence learning, neural machine translation, attention masking, autoregressive decoding, GPT/LLMs, BERT, tokenization and vocabulary construction
 - **Computer vision:** Image classification, image segmentation, image patchification, patch embeddings, positional embeddings, Vision Transformers (ViT), Swin Transformers, visual representation learning
-- **Generative & multimodal AI:** GANs, diffusion models, generative AI, vision-language models (VLMs), image captioning, image-text pairs, multimodal learning, visual-language generation
+- **Generative & multimodal AI:** GANs, latent diffusion, DDPM noise schedules and sampling, VAEs and latent representations, U-Net denoisers, timestep embeddings, classifier-free guidance, image-to-image generation, text-conditioned image generation, vision-language models (VLMs), image captioning, multimodal learning
 - **Programming & mathematics:** Python, NumPy, Pandas, Matplotlib, linear algebra, calculus
 - **Research workflow:** Git/GitHub, Jupyter, Google Colab, PyTorch training loops, model training and inference, experimentation, evaluation, TensorBoard experiment tracking
 
