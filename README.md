@@ -10,6 +10,13 @@ My work spans foundational neural networks, sequence models, Transformers, compu
 - **Engineering focus:** PyTorch, model implementation, training and evaluation workflows, and reproducible experimentation.
 - **Teaching:** Practical, first-principles AI and PyTorch education.
 
+
+## Community and teaching
+
+| **15K+** | **5K+** | **270+ hrs** |
+|:---:|:---:|:---:|
+| LinkedIn community | YouTube subscribers | AI & PyTorch lessons |
+
 ## Selected projects
 
 A curated selection of PyTorch implementations. Each project pairs its code/notebook with a related video lesson where available.
