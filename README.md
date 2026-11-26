@@ -15,7 +15,7 @@ My work spans foundational neural networks, sequence models, Transformers, compu
 
 | **15K+** | **5K+** | **270+ hrs** |
 |:---:|:---:|:---:|
-| LinkedIn community | YouTube subscribers | AI & PyTorch lessons |
+| LinkedIn community | YouTube subscribers · 200 videos | AI & PyTorch lessons |
 
 ## Selected projects
 
@@ -91,7 +91,7 @@ The [PyTorch Projects](https://github.com/AliHassanAbbas/Pytorch-Projects-) repo
 
 ## Teaching and learning
 
-I create educational material that emphasizes the reasoning behind an architecture—not just copying code. My teaching connects mathematical foundations to tensor shapes, implementation details, training behavior, and practical experiments.
+I create educational material that emphasizes the reasoning behind an architecture—not just copying code. My teaching connects mathematical foundations to tensor shapes, implementation details, training behavior, and practical experiments. The Mrelan YouTube library spans PyTorch tensor operations, mathematics for AI, neural-network fundamentals, optimization, computer vision, NLP, Transformers, large language models, generative AI, and multimodal architectures—with detailed from-scratch implementation series.
 
 **YouTube:** [mrelanofficial](https://www.youtube.com/@mrelanofficial)  
 **Course platform:** [mrelan.com](https://mrelan.com)
