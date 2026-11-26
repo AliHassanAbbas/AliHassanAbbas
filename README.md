@@ -83,10 +83,12 @@ The [PyTorch Projects](https://github.com/AliHassanAbbas/Pytorch-Projects-) repo
 
 ## Technical toolkit
 
-- **Deep learning:** PyTorch, neural networks, CNNs, RNNs, LSTMs, attention, Transformers, GANs, diffusion models
-- **AI domains:** Computer vision, NLP, generative AI, multimodal learning
-- **Programming & data:** Python, NumPy, Pandas, Matplotlib
-- **Workflow:** Git, Jupyter/Colab, model training, experimentation, evaluation
+- **Deep learning & PyTorch:** PyTorch, neural networks, CNNs, RNNs, LSTMs, autograd, training loops, optimization, GPU workflows
+- **Transformers & sequence models:** Attention, multi-head self-attention, Transformer encoders/decoders, GPT/LLMs, BERT, tokenization
+- **Computer vision:** Image classification, image segmentation, image patchification, patch embeddings, positional embeddings, Vision Transformers (ViT), Swin Transformers, visual representation learning
+- **Generative & multimodal AI:** GANs, diffusion models, generative AI, vision-language and multimodal learning
+- **Programming & mathematics:** Python, NumPy, Pandas, Matplotlib, linear algebra, calculus
+- **Research workflow:** Git/GitHub, Jupyter, Google Colab, model training, experimentation, evaluation, experiment tracking
 
 
 ## Teaching and learning
