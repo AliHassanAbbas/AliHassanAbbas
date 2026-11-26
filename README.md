@@ -69,32 +69,37 @@ The [PyTorch Projects](https://github.com/AliHassanAbbas/Pytorch-Projects-) repo
 - **Programming & data:** Python, NumPy, Pandas, Matplotlib
 - **Workflow:** Git, Jupyter/Colab, model training, experimentation, evaluation
 
-## Selected PyTorch video lectures — implementations from scratch
+## Selected PyTorch video lectures — watch the actual lessons
 
-I also publish long-form, hands-on coding lessons on the **[mrelanofficial YouTube channel](https://www.youtube.com/@mrelanofficial)**. These sessions walk through PyTorch implementations and architecture concepts step by step.
+I publish long-form, hands-on coding lessons on the **[mrelanofficial YouTube channel](https://www.youtube.com/@mrelanofficial)**. Click any thumbnail to open that video.
 
 ### NLP & Transformers
 
-- [BERT from Scratch](https://www.youtube.com/watch?v=7ldzoCTQeSM)
-- [Transformer from Scratch](https://www.youtube.com/watch?v=EZxw6E6TZ7E&t=42262s)
-- [Sentiment Analysis with LSTM](https://www.youtube.com/watch?v=s1Bt4F2IFuQ)
-- [Sentiment Analysis with Word Embeddings](https://www.youtube.com/watch?v=-TCP0c1266Y&t=19s)
-- [Mini Google Translate with Seq2Seq](https://www.youtube.com/watch?v=rDWnyF_8hzw)
+<table>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=7ldzoCTQeSM"><img src="https://img.youtube.com/vi/7ldzoCTQeSM/hqdefault.jpg" alt="BERT from Scratch — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=7ldzoCTQeSM"><strong>BERT from Scratch</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=EZxw6E6TZ7E"><img src="https://img.youtube.com/vi/EZxw6E6TZ7E/hqdefault.jpg" alt="Transformer from Scratch — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=EZxw6E6TZ7E"><strong>Transformer from Scratch</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=s1Bt4F2IFuQ"><img src="https://img.youtube.com/vi/s1Bt4F2IFuQ/hqdefault.jpg" alt="Sentiment Analysis with LSTM — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=s1Bt4F2IFuQ"><strong>Sentiment Analysis with LSTM</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=-TCP0c1266Y"><img src="https://img.youtube.com/vi/-TCP0c1266Y/hqdefault.jpg" alt="Sentiment Analysis with Word Embeddings — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=-TCP0c1266Y"><strong>Sentiment Analysis with Word Embeddings</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=rDWnyF_8hzw"><img src="https://img.youtube.com/vi/rDWnyF_8hzw/hqdefault.jpg" alt="Mini Google Translate with Seq2Seq — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=rDWnyF_8hzw"><strong>Mini Google Translate with Seq2Seq</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+</table>
 
 ### Computer Vision
 
-- [Vision Transformer (ViT) from Scratch](https://www.youtube.com/watch?v=g9Y4Ghc8MII)
-- [ResNet from Scratch (ResNet18–152)](https://www.youtube.com/watch?v=iOe3HVptoJE&t=3s)
-- [VGGNet from Scratch (VGG11–19)](https://www.youtube.com/watch?v=I3UWuBnlr_g)
-- [AlexNet from Scratch](https://www.youtube.com/watch?v=1PTxKyYNPlk)
-- [LeNet-5 from Scratch](https://www.youtube.com/watch?v=IaOq_LN2bEY&t=51s)
-- [Image Classification with MLP](https://www.youtube.com/watch?v=IXC2ZG1mGEM)
+<table>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=g9Y4Ghc8MII"><img src="https://img.youtube.com/vi/g9Y4Ghc8MII/hqdefault.jpg" alt="Vision Transformer (ViT) from Scratch — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=g9Y4Ghc8MII"><strong>Vision Transformer (ViT) from Scratch</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=iOe3HVptoJE"><img src="https://img.youtube.com/vi/iOe3HVptoJE/hqdefault.jpg" alt="ResNet from Scratch (ResNet18–152) — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=iOe3HVptoJE"><strong>ResNet from Scratch (ResNet18–152)</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=I3UWuBnlr_g"><img src="https://img.youtube.com/vi/I3UWuBnlr_g/hqdefault.jpg" alt="VGGNet from Scratch (VGG11–19) — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=I3UWuBnlr_g"><strong>VGGNet from Scratch (VGG11–19)</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=1PTxKyYNPlk"><img src="https://img.youtube.com/vi/1PTxKyYNPlk/hqdefault.jpg" alt="AlexNet from Scratch — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=1PTxKyYNPlk"><strong>AlexNet from Scratch</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=IaOq_LN2bEY"><img src="https://img.youtube.com/vi/IaOq_LN2bEY/hqdefault.jpg" alt="LeNet-5 from Scratch — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=IaOq_LN2bEY"><strong>LeNet-5 from Scratch</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=IXC2ZG1mGEM"><img src="https://img.youtube.com/vi/IXC2ZG1mGEM/hqdefault.jpg" alt="Image Classification with MLP — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=IXC2ZG1mGEM"><strong>Image Classification with MLP</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+</table>
 
 ### Generative AI
 
-- [DCGAN from Scratch](https://www.youtube.com/watch?v=1zdRriruHpQ&t=2333s)
-- [GAN from Scratch](https://www.youtube.com/watch?v=ExtS9Z2wJp8&t=24s)
-
+<table>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=1zdRriruHpQ"><img src="https://img.youtube.com/vi/1zdRriruHpQ/hqdefault.jpg" alt="DCGAN from Scratch — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=1zdRriruHpQ"><strong>DCGAN from Scratch</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+<tr><td width="320"><a href="https://www.youtube.com/watch?v=ExtS9Z2wJp8"><img src="https://img.youtube.com/vi/ExtS9Z2wJp8/hqdefault.jpg" alt="GAN from Scratch — YouTube thumbnail" width="320"></a></td><td><a href="https://www.youtube.com/watch?v=ExtS9Z2wJp8"><strong>GAN from Scratch</strong></a><br><sub>Watch on YouTube</sub></td></tr>
+</table>
 ## Teaching and learning
 
 I create educational material that emphasizes the reasoning behind an architecture—not just copying code. My teaching connects mathematical foundations to tensor shapes, implementation details, training behavior, and practical experiments.
