@@ -36,13 +36,13 @@ My work spans foundational neural networks, sequence models, Transformers, compu
 
 I create educational material that emphasizes the reasoning behind an architecture—not just copying code. My teaching approach connects mathematical foundations to tensor shapes, implementation details, training behavior, and practical experiments.
 
-**YouTube:** [Ali Hassan AI](https://www.youtube.com/@AliHassanAI_Official)  
+**YouTube:** [Ali Hassan AI](https://www.youtube.com/@mrelanofficial)  
 **Course platform:** [mrelan.com](https://mrelan.com)
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alihassanofficial/)
-- [YouTube](https://www.youtube.com/@AliHassanAI_Official)
+- [YouTube](https://www.youtube.com/@mrelanofficial)
 - [Portfolio](https://alihassanabbas.github.io)
 - [GitHub repositories](https://github.com/AliHassanAbbas?tab=repositories)
 
