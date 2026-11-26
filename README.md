@@ -110,3 +110,12 @@ I create educational material that emphasizes the reasoning behind an architectu
 ---
 
 *I believe in becoming an AI researcher by understanding, implementing, experimenting, and building—not simply calling an API.*
+
+
+## Additional generative modelling project
+
+- **[Vanilla GAN and DCGAN in PyTorch](https://github.com/AliHassanAbbas/Pytorch-Projects-/tree/main/4%20Image%20Generation%28generative%20models%29%20pytorch)** — fully connected GAN on MNIST and convolutional DCGAN on CIFAR-10 resized to 64×64. Covers generator/discriminator design, latent noise, transposed convolutions, BatchNorm, adversarial BCE objectives, separate Adam optimizers, initialization, and generated-image visualization.
+
+## GPT-2 learning series
+
+The [GPT-2 from Scratch project folder](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/tree/main/8%20GPT%202%20from%20Scratch) has a documentation scaffold; its implementation notebook is pending upload. The related [LLM video playlist](https://www.youtube.com/playlist?list=PLEq4YdBohZDQ) is available.
